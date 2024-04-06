@@ -21,8 +21,7 @@ Status: Currently untested
 
 When used with nRF52 or RP2040 modules we anticipate compatability with [Meshtastic](https://meshtastic.org/docs/hardware/devices/rak/core-module/){:target="_blank"} this should provide tracking and mesh comms functionality.
 
-<iframe name="ibom" src="https://openmeshwatch.github.io/ibom.html
-" style='height: 700px; width: 100%;' frameborder="0" scrolling="yes" id="iframe">...</iframe>
+[Interactive PCB BOM](https://openmeshwatch.github.io/ibom.html){:target="_blank"}
 
 ### Supporting future development
 
