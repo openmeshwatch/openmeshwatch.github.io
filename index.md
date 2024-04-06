@@ -4,6 +4,8 @@ title: Open Mesh Watch
 subtitle: The smartwatch that meshes
 ---
 ![](https://raw.githubusercontent.com/openmeshwatch/openmeshwatch.github.io/master/assets/img/openmeshwatch.png)
+
+
 This project is a smart watch with the same outline as [watchy](https://github.com/sqfmi/watchy-hardware){:target="_blank"}.  This uses a generic footprint that should work with any of the [RAK wisblock](https://store.rakwireless.com/collections/wisblock-core){:target="_blank"} cores.  
 
 The repo for this work by Andrew Allard is [OSW_rakWisblock](https://github.com/a-allard/OSW_rakWisblock){:target="_blank"}
