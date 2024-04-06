@@ -23,6 +23,8 @@ When used with nRF52 or RP2040 modules we anticipate compatability with [Meshtas
 
 [Interactive PCB BOM](https://openmeshwatch.github.io/ibom.html){:target="_blank"}
 
+If used with the ESP32 Wisblock instead of the nRF52 [this firmware](https://github.com/Szybet/E-Watch-FOSS?tab=readme-ov-file#some-firmwares-for-the-watchy-that-i-like){:target="_blank"} may be interesting
+
 ### Supporting future development
 
 If you like this project, please consider supporting Andrew Allards projects through:  (Note if you use the pcbway link below to order the project it does not cost you anymore but it does help me)
