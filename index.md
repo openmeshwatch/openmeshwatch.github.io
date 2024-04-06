@@ -19,11 +19,13 @@ Status: Currently untested
 |[E-ink screen](https://s.click.aliexpress.com/e/_DePA2PX){:target="_blank"} | GDEY0154D67| 1|
 |[Battery](https://vi.aliexpress.com/item/32829333828.html){:target="_blank"} | 402030 | 1|
 
-When used with nRF52 or RP2040 modules we anticipate compatability with [Meshtastic](https://meshtastic.org/docs/hardware/devices/rak/core-module/){:target="_blank"} this should provide tracking and mesh comms functionality.
-
 [Interactive PCB BOM](https://openmeshwatch.github.io/ibom.html){:target="_blank"}
 
-If used with the ESP32 Wisblock instead of the nRF52 [this firmware](https://github.com/Szybet/E-Watch-FOSS?tab=readme-ov-file#some-firmwares-for-the-watchy-that-i-like){:target="_blank"} may be interesting
+# Meshtastic
+When used with nRF52 or RP2040 modules we anticipate compatability with [Meshtastic](https://meshtastic.org/docs/hardware/devices/rak/core-module/){:target="_blank"} this should provide tracking and mesh comms functionality.
+
+# ESP32
+If used with the ESP32 Wisblock instead of the nRF52 [this firmware](https://github.com/Awesome-Watchy#firmware){:target="_blank"} may be interesting
 
 ### Supporting future development
 
