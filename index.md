@@ -6,6 +6,7 @@ subtitle: The smartwatch that meshes
 
 This project is a smart watch with the same outline as [watchy](https://github.com/sqfmi/watchy-hardware){:target="_blank"}.  This uses a generic footprint that should work with any of the [RAK wisblock](https://store.rakwireless.com/collections/wisblock-core){:target="_blank"} cores.  
 
+Status: Currently untested
 
 | Component             | Description                               | Quantity |
 | ------------------------- | ----------------------------------------- | -------- |
@@ -16,7 +17,7 @@ This project is a smart watch with the same outline as [watchy](https://github.c
 |[E-ink screen](https://s.click.aliexpress.com/e/_DePA2PX){:target="_blank"} | GDEY0154D67| 1|
 |[Battery](https://vi.aliexpress.com/item/32829333828.html){:target="_blank"} | 402030 | 1|
 
-
+When used with nRF52 or RP2040 modules we anticipate compatability with [Meshtastic](https://meshtastic.org/docs/hardware/devices/rak/core-module/){:target="_blank"} this should provide tracking and mesh comms functionality.
 
 ### Supporting future development
 If you like this project, please consider supporting my open source projects through:  (Note if you use the pcbway link below to order the project it does not cost you anymore but it does help me)
