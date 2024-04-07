@@ -20,6 +20,7 @@ Status: Currently untested
 | [24mm Watch strap](https://s.click.aliexpress.com/e/_Dk2yBgH){:target="_blank"}| A strap you like| 1|
 |[E-ink screen](https://s.click.aliexpress.com/e/_DePA2PX){:target="_blank"} | GDEY0154D67| 1|
 |[Battery](https://vi.aliexpress.com/item/32829333828.html){:target="_blank"} | 402030 | 1|
+| [LoRa antenna](https://s.click.aliexpress.com/e/_DE8O4z7){:target="_blank"}| This is 433MHz ensure it matches your RAK module|1 |
 
 [Interactive PCB BOM](https://openmeshwatch.github.io/ibom.html){:target="_blank"}
 
